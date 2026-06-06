@@ -1,2 +1,1 @@
-# infra-mcdo
-MCDO repository 
+# test-uai-lab01-mlops
